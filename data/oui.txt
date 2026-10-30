@@ -1,0 +1,18 @@
+# Lista resumida de fabricantes por OUI (3 primeiros octetos do MAC).
+# Para identificar qualquer fabricante, baixe a lista oficial do IEEE em
+# https://standards-oui.ieee.org/oui/oui.txt e use: netinv --oui oui.txt
+00:00:0C  Cisco Systems
+00:05:69  VMware
+00:0C:29  VMware
+00:1C:14  VMware
+00:50:56  VMware
+00:15:5D  Microsoft (Hyper-V)
+08:00:27  PCS Systemtechnik (VirtualBox)
+52:54:00  QEMU/KVM
+B8:27:EB  Raspberry Pi Foundation
+DC:A6:32  Raspberry Pi Trading
+00:E0:4C  Realtek Semiconductor
+00:0D:B9  PC Engines
+00:04:4B  NVIDIA
+00:1A:11  Google
+F0:9F:C2  Ubiquiti
