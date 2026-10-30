@@ -1,0 +1,18 @@
+{
+  "name": "netinv",
+  "version": "0.1.0",
+  "description": "Inventário de rede pela linha de comando: hosts ativos, portas abertas, MAC e fabricante.",
+  "type": "module",
+  "bin": {
+    "netinv": "src/cli.js"
+  },
+  "scripts": {
+    "scan": "node src/cli.js",
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "author": "Filipe Corrales Cardoso",
+  "license": "MIT"
+}
